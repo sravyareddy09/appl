@@ -1,0 +1,67 @@
+.my input{
+
+    width: 100%;
+    display: block;
+    padding: 10px;
+    color: #222;
+    border:none;
+    outline:none ;
+    margin: 1em 0;
+}
+.my input[type="submit"]{
+    background:red;
+    color: #fff;
+    text-transform: uppercase;
+    font-size: 1.2em;
+    opacity:.7;
+    transition: opacity .3 ease;
+
+}
+.my input[type="submit"]:hover{
+    opacity: 1;}
+    .lik{
+            font-family: "open sans";
+            color:black;
+            line-height: 1.6pxS;
+    }
+    .book-container{
+    
+            position:absolute;
+            top: 0%;
+            left:50%;
+            bottom: 35%;
+            transform:translate(-50%,50%);
+            background: linear-gradient(rgba(0,0,0,0.3)),rgba(0,0,0,0.3);
+            width: 380px;
+            padding-bottom:  0 20px;
+            border-radius: 10px;
+            box-shadow: 7px 7px 60px #000;
+            margin-bottom:30px;
+            padding: 20px;
+            height: 600px;
+            w
+            
+        }
+    .by{
+        margin-left: 75%;
+        background-color:black;
+        color: beige;
+    }
+    .by1{
+        margin-left:100px;
+        background-color: #222;
+    }
+    .button{
+        color: black;
+        background-color: orange;
+        border-radius:10%;
+        padding-left: 3px;
+        padding-right: 3px;
+        cursor: pointer;
+        border-color: orange;
+        text-underline-offset:0;
+        margin-left: 600px;
+    }
+        
+        
+    
